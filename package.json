@@ -1,0 +1,49 @@
+{
+  "name": "starter-kit",
+  "version": "0.0.1",
+  "description": "A starter kit for react apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skwon-mdsol/starter-kit.git"
+  },
+  "author": "Sean Kwon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skwon-mdsol/starter-kit/issues"
+  },
+  "homepage": "https://github.com/skwon-mdsol/starter-kit#readme",
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.4",
+    "connected-react-router": "^4.5.0",
+    "css-loader": "^1.0.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "file-loader": "^2.0.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^23.6.0",
+    "mini-css-extract-plugin": "^0.4.4",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "sass-loader": "^7.1.0",
+    "semistandard": "^12.0.1",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.20.2",
+    "webpack-dev-server": "^3.1.9"
+  }
+}
