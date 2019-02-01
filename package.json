@@ -22,6 +22,7 @@
   "homepage": "https://github.com/skwon-mdsol/starter-kit#readme",
   "dependencies": {
     "@babel/core": "^7.1.2",
+    "@babel/polyfill": "^7.2.5",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "axios": "^0.18.0",
